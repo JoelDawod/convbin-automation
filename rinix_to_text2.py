@@ -58,7 +58,7 @@ def parse_rinex_obs(filename):
 
 
 # Example usage
-filename = r"./rinex_out/20240214-041908.obs"
+filename = r"TWTF00TWN_R_20240740000_01D_30S_MO.rnx"
 df = parse_rinex_obs(filename)
 
 # Save as tab-delimited file
