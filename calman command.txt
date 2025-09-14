@@ -1,0 +1,1 @@
+./rnx2rtkp.exe -k pppkinematic.conf rover.obs rover.nav > rover.pos
